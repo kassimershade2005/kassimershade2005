@@ -15,7 +15,6 @@ I'm continuously developing my programming skills, exploring new technologies, a
 ## 🧰 Technologies & Tools
 
 **Programming Languages**
-
 - Java
 - C#
 - JavaScript
@@ -23,19 +22,19 @@ I'm continuously developing my programming skills, exploring new technologies, a
 - SQL
 - Assembly
 
-**Web Development**
-
+**Frontend Development**
 - HTML
 - CSS
 - JavaScript
+
+**Backend & Database**
 - Firebase
-- Firestore
+- Cloud Firestore
 
-**Tools**
-
+**Development Tools**
 - Git & GitHub
 - Visual Studio
-- Google Firbase & Firestore
+- Visual Studio Code
 
 ## 📌 Featured Projects
 
